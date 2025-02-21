@@ -49,7 +49,7 @@ fun Greeting() {
         SelectionContainer {
             Column (modifier = Modifier.fillMaxSize(),
                 horizontalAlignment =Alignment.CenterHorizontally){
-            Text(text = "helloo",
+            Text(text = "deneme",
                 fontStyle = FontStyle.Italic,
                 color = Color.Red,
 
